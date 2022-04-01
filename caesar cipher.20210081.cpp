@@ -2,7 +2,7 @@
  Program Name: CAESER CIPHER.cpp.
  Program Description: Cipher and Decipher program.
  Last Modification Date: 25/3/20222.
- Author1 and ID and Group: Aya Osama Mohammed, 20210081.
+ Author1 and ID and Group: Aya Osama Mohammed.
  Teaching Assistant: NOT BE DETERMINED YET.
  Purpose:How to encrypt or decrypt a message for the user with knowledge of number of shifts which the user wants to be.
 
